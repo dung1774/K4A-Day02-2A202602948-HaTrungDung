@@ -36,9 +36,9 @@
 - Ý bỏ vì không phải pain thật:
 
 **Self-check Phase 1:**
-- [ ] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
-- [ ] Dùng ít nhất 3/4 lăng kính
-- [ ] Không có dòng chung chung kiểu "mất nhiều thời gian"
+- [x] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
+- [x] Dùng ít nhất 3/4 lăng kính
+- [x] Không có dòng chung chung kiểu "mất nhiều thời gian"
 
 ---
 
@@ -309,6 +309,6 @@ Card #1 — Data labeling / polygon thủ công
 - Tôi sửa gì: Không đặt mục tiêu AI thay thế hoàn toàn labeler. Chuyển thành workflow AI tạo labeling ban đầu → human review/chỉnh sửa → fallback về labeling thủ công. Bổ sung accuracy của polygon và thời gian human review vào các metric cần đo.
 
 ### Self-check nộp phần 01
-- [ ] Có 5+ problems + top 3 Cards đủ field
-- [ ] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
-- [ ] Đã chọn 1 card pitch + câu hỏi challenge
+- [x] Có 5+ problems + top 3 Cards đủ field
+- [x] Mỗi Card có workflow trước/sau + bottleneck + metric + fallback
+- [x] Đã chọn 1 card pitch + câu hỏi challenge
